@@ -17,6 +17,6 @@ public class RotateArray {
                 arr[j - 1] = temp;
             }
         }
-        System.out.printf(Arrays.toString(arr));
+        System.out.printf("output",Arrays.toString(arr));
     }
 }
