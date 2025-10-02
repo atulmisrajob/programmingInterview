@@ -2,8 +2,8 @@ package org.coding;
 
 import java.time.LocalDate;
 
-import static java.lang.StringTemplate.STR;
 import static java.util.FormatProcessor.FMT;
+
 
 public class StringTemplateDemo {
 
